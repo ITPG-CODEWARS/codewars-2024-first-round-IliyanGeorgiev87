@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cxxOiUOi)
+Trainscape - Iliyan Georgiev
+CodeWars 2024 First Round
+----------------------------
+!! Нямам много комити, защото няколко пъти
+имах проблеми с git! Извинявам се! !!
+----------------------------
+1. Използвани технологии -
+2. Зависимости - няма;
+3. Как да отворим проекта
+   *

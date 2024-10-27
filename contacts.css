@@ -1,0 +1,148 @@
+/*generic*/
+body{
+    margin: 0;
+}
+a{
+    text-decoration: 0;
+}
+#weight300opening{
+    font-weight: 300;
+    font-size: 8rem;
+}
+#weight600{
+    font-weight: 600;
+    color: #F18701;
+}
+/*navigation*/
+.navigation {
+    width: 102%;
+    background-color: #F18701;
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+    height: 7vh;
+    margin-bottom: 5vh;
+}
+.icon{
+    height: 1.35vw;
+    width: 1.35vw;
+    margin-left: 0.5vw;
+}
+.iconXL{
+    height: 2.5%;
+    width: 2.5%;
+    margin-left: 0.75%;
+}
+.logo {
+    margin-top: 0.75%;
+    height: 2vw;
+    aspect-ratio: 943 / 366;
+    width: auto;
+    margin-left: 0.75%;
+}
+
+.nav-button {
+    
+    width: auto;
+    color: white;
+    
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: -5%;
+    
+    font-size: 2.25em;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    
+    transition: all 0.1s ease-in-out; 
+}
+/*opening*/
+.opening_heading{
+    font-size: 6em;
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin-left: 2.5%;
+    margin-bottom: 1%;
+}
+.opening_desc{
+    font-size: 2rem;
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    margin-left: 2.75%;
+    margin-bottom: 5%;
+}
+/*същинска част*/
+.description{
+    font-size: 2em;
+    width: 50%;
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    margin-left: 1%;
+}
+/*footer*/
+.footer{
+    width: 100%;
+    height: 33vh;
+    font-size: 2.5em;
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+    background-color: #181818;
+    padding: 1vw
+}
+.iconL{
+    height: 1.76vw;
+    width: 1.75vw;
+    margin-left: 1vw;
+}
+.footer-grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    align-content: center;
+    justify-content: flex-start;
+    margin-bottom: 5vh;
+    grid-gap: 0.5vw;
+}
+.footer-grid a{
+    color: white;
+    font-size: 2rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    margin-right: 10%;
+    margin-left: 5%;
+    transition: all 0.1s ease-in-out; 
+}
+.footer-grid a:hover{
+    color: #F18701;
+}
+.footer-heading{
+    margin-left: 1vw;
+    margin-top: 2vw;
+}
+.email{
+    font-size: 2rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    margin-left: 1%;
+    transition: all 0.1s ease-in-out;
+}
+.email:hover{
+    color: #F18701;
+}
+
